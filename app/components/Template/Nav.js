@@ -31,7 +31,7 @@ const Nav = () => (
       </ul>
     </section>
 
-    <section id="footer">
+    {/* <section id="footer">
       <ul className="icons">
         {data.map((s) => (
           <li key={s.label}>
@@ -42,7 +42,7 @@ const Nav = () => (
         ))}
       </ul>
       <p className="copyright">&copy; TRAN Thanh Tri <Link to="/">tranthanhtri.com</Link>.</p>
-    </section>
+    </section> */}
   </section>
 );
 

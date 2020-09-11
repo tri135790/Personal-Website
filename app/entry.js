@@ -16,6 +16,7 @@ import Stats from './views/Stats';
 // All of our CSS
 import './static/css/main.scss';
 
+
 ReactDOM.render(
   <Router basename={BASE_PATH}>
     <Switch>
