@@ -1,12 +1,13 @@
 const data = [
   {
     path: '/',
-    label: 'Michael D\'Angelo',
+    label: 'TRAN Thanh Tri',
+    subLabel: '/ Student',
     index: true,
   },
   {
     path: '/about',
-    label: 'About',
+    label: 'About Me',
   },
   {
     path: '/resume',
