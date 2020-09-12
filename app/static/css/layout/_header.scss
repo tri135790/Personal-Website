@@ -62,7 +62,7 @@
 
 		.links {
 			@include vendor('flex', '1');
-			border-left: solid 1px _palette(border);
+			border-left: solid 1px #C850C0;
 			height: inherit;
 			line-height: inherit;
 			overflow: hidden;
@@ -71,7 +71,7 @@
 				float:right;
 				margin-right: 1.5em;
 				li {
-					border-left: solid 1px _palette(border);
+					border-left: solid 1px #C850C0;
 					line-height: 1;
 					margin-left: 1.5em;
 					padding-left: 1.5em;

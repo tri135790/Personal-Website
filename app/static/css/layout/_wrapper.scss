@@ -26,10 +26,14 @@
 
 		@include breakpoint(large) {
 			display: block;
+			padding-top: 0em ;
+			margin-top: 0em;
 		}
 
 		@include breakpoint(small) {
 			padding: _size(section-spacing-small);
+			padding-top: 0em ;
+			margin-top: 0em;
 		}
 
 		body.single & {

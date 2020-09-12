@@ -9,11 +9,12 @@ import data from '../../data/contact';
 
 const Footer = () => (
     <section id="footer">
+      <p>Find me here</p>
       <ul className="icons">
         {data.map((s) => (
           <li key={s.label}>
             <a href={s.link}>
-              <FontAwesomeIcon icon={s.icon} />
+              <FontAwesomeIcon icon={s.icon } />
             </a>
           </li>
         ))}

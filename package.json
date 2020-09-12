@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
-  "version": "2.1.0",
-  "homepage": "https://mldangelo.github.io/personal-site/",
+  "version": "1.0.0",
+  "homepage": "https://github.com/tri135790/Personal-Website",
   "scripts": {
     "build": "rimraf ./build && webpack --config ./webpack/webpack.production.config.babel.js --progress --profile --colors",
     "postbuild": "react-snap",
@@ -48,6 +48,7 @@
     "prop-types": "^15.7.2",
     "raw-loader": "^4.0.1",
     "react": "^16.13.1",
+    "react-animation-components": "^3.0.0",
     "react-burger-menu": "^2.7.1",
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
@@ -56,6 +57,7 @@
     "react-mdl": "^2.1.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
+    "react-transition-group": "^4.4.1",
     "reactstrap": "^8.5.1",
     "rimraf": "^3.0.2",
     "sass-loader": "^10.0.2",
