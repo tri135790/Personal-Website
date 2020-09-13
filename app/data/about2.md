@@ -1,79 +1,42 @@
 #### Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
-
-You can ask me in person for other stories that I'm afraid to share with the internet.
+- I couldn't speak until the 30th month of my life (~ 2,5 years old), my mom thought that i was mute.
+This slightly affected my pronunciation ability as I grew up.
+- At 8, in physical education class at school, my teacher introduced me and my classmates to a new sport named: Soccer with a ball on his hand. Then, I convinced my mom to buy me a soccer ball and started to play it every day every hour.
+- I used to imagine myself as a striker and kicking the ball hard against the wall. When the ball bounces again, I imagine myself as the goalkeeper and grab it. I practiced alone like that.
+- At 9, I watched the full Premier League season 2008/2009 and became a Manchester United fan. At that year, I also read manga for the first time. That is [Itto](https://vi.wikipedia.org/wiki/Itto_%E2%80%93_C%C6%A1n_l%E1%BB%91c_s%C3%A2n_c%E1%BB%8F), an manga about soccer and it's still my most favorite manga until now, I still reread it from time to time.
+- At 10, my father bought me and my sister a PC. I played a lot of offline games like [Bloody Roar 2](https://en.wikipedia.org/wiki/Bloody_Roar_2), [ FIFA2001](https://en.wikipedia.org/wiki/FIFA_2001),[ Pokemon Ruby Simulator](https://vi.wikipedia.org/wiki/Pok%C3%A9mon_Ruby_v%C3%A0_Sapphire) ... and online games: [CrossFire](https://vi.wikipedia.org/wiki/CrossFire), [ Audition](https://vi.wikipedia.org/wiki/Audition_Online) but fell in love with [PES6] (https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_6) and have played it continuously  until 15 years old. My older sister forbade me to install online games on our computer because they were too heavy, but I secretly installed and hid them in a private folder. 
+- At 11, I was both selected to the school team to compete in the city-ranking contest for Excellent Students and the district soccer team to participate in the city-ranking soccer tournament. I decided to quit the soccer team in order to concentrate on my study. After that, I got the first prize of that contest and my soccer team also won the trophy without me. 
+- From 12 to 14, I passed into the secondary school for the gifted of my city, I studied insanely for my parents pride. I continued play football as a passion and helped my class to win the school soccer tournament 2 years in a row.
+- At 15, I chose physics as my major subject because  it helps me understand natural phenomena that occur around me. I passed into [Le Quy Don high school for the gifted](https://en.wikipedia.org/wiki/Le_Quy_Don_High_School_for_the_Gifted,_Danang) - the most prestigious high school in my hometown. At there, I started studying for myself. I also discovered MOBA games and played them usually, mostly [League of Legends](https://na.leagueoflegends.com/en-us/) and [DOTA](https://en.wikipedia.org/wiki/Defense_of_the_Ancients).
+- At 16, I skipped many classes and courses at high school and instead spend time on other activites especially social activities and outdoor activities. Thanks to that, I realised I love interacting with other people. I was the member of volleyball team and athletics team of my high school as well as was the captain of soccer team.
+- At 17, I focused more on studying and passed the National High School Exam with the score: 29/30. I'm quite proud of this :)
+- At 18, I went to France and started my new life. In summer, I traveled alone from France to Italy and made a quite cool video about that trip. You can check it out [here](https://www.youtube.com/watch?v=auNcYnvzWIE).
 <br><br>
 #### I like
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils (Faber-Castell Polychromos)
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- Travel
+- Board game and game
+- Sport, especially soccer
+- Rap music ([Da LAB](https://www.youtube.com/channel/UCCCRRUvgvygH82HAugJjDLw), [Đen](https://www.youtube.com/channel/UCWu91J5KWEj1bQhCBuGeJxw), [G-FAMILY( Datmaniac, B2C, Sol'Bass)](https://www.youtube.com/channel/UCq-Qp2cDm_hXDTGvUSR7nJw), [Wowy](https://www.youtube.com/channel/UC4epxz9TwShqMzkmm28nh2w))
+- [Books](https://www.goodreads.com/user/show/100519598-ka-tun)
+- Bún mắm
+- History and Geography
+- My hometown
+- Girls
+#### I don't like
+- Cold weather
+- Party all night long
+- Alcohol
+- Bad food
+- Complexification
+- Loneliness
 
-#### Travel / Geography
-
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-
-- In 2019, I visited: Canada, England, France, and Switzerland.
-
-- In 2020, there was a pandemic and I traveled nowhere.
-
-- I am an Oregon Trail II enthusiast.
 
 #### Fun facts
-
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me.
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on an [electric skateboard](https://boostedboards.com/vehicles/shortboards/boosted-mini-x), [onewheel](https://onewheel.com/products/xr), or [bicycle](https://www.citibikenyc.com/) every single day.
-- I added this page because so many people complained that my site was just a resume.
-
+- I can't pronounce my name correctly
+- I love playing soccer , not watching it
 #### I dream of
+- Living a normal life
+- Waking up motivated
+- Having 10 kids
 
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- no one checking the commit history for earlier drafts of this file.

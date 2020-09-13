@@ -116,12 +116,12 @@ class Index extends Component  {
             </h2>
             <p>I&apos;m Thanh, currently a student at the <a href="https://www.utt.fr/">University of Technology of Troyes</a>
             , France.
-              <br/>Here's who I am and what I do</p>
+              <br/>Here's who I am and what I do.</p>
             
           </section>
           <ul  align="center">
             <li>
-              <Link to="/resume" id="buttonindex" >
+              <Link to="/about" id="buttonindex" >
                 Learn More
               </Link>
             </li>
@@ -130,8 +130,8 @@ class Index extends Component  {
           <article className="post" id="index">
             <header>
               <div className="title">
-                <h2><Link to="/">About this site</Link></h2>
-                <p>A beautiful, responsive, react app written with modern Javascript.</p>
+                <h2>About this site</h2>
+                <p>A simple, responsive, react app written with modern Javascript.</p>
               </div>
             </header>
             <p> Welcome to my website ! </p>

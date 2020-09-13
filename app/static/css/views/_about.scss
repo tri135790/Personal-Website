@@ -7,7 +7,6 @@
   }
  
 }
-
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,800);
 figure.snip1104 {
   font-family: 'Raleway', Arial, sans-serif;
@@ -15,13 +14,14 @@ figure.snip1104 {
   overflow: hidden;
   margin-bottom: 20px;
   min-width: 100%;
-  max-width: 310px;
+  max-width: 100%;
   max-height: 350px;
   width: 100%;
   background: #000000;
   color: #ffffff;
   text-align: center;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 7px 22px 0 rgba(0, 0, 0, 0.19);
+
 }
 
 figure.snip1104 * {
@@ -136,4 +136,73 @@ figure.snip1104.hover:before {
   transform: rotate(110deg) translateY(-150%);
 }
 
+@include breakpoint(large) {
+  figure.snip1104 {
+    margin-top: 1.5em;
+    max-height: 230px;
+    
+  }
+}
 
+@include breakpoint(medium) {
+  figure.snip1104 {
+  max-height: 200px;
+  }
+}
+
+@include breakpoint(small) {
+  figure.snip1104 {
+  max-height: 290px;
+  }
+}
+
+.gallery {
+  // position: relative;
+  // overflow: hidden;
+  margin-bottom: 30px;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  perspective: 800px;
+
+  .card {
+    position: relative;
+    width: 240px;
+    height: 300px;
+    color: white;
+    cursor: pointer;
+    transition: 1s ease-in-out;
+    transform-style: preserve-3d;
+    box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.2), 0 7px 22px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 1.5em;
+    
+
+    &:hover {
+      transform: rotateY(0.5turn);
+    }
+
+    .card__face {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      transition: 1s ease-in-out;
+      // -webkit-box-reflect: below 0
+      //   linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.4));
+
+      img {
+        width: 240px;
+        height: 300px;
+        object-fit: cover;
+       
+      }
+
+      &--back {
+        transform: rotateY(0.5turn);
+      }
+    }
+  }
+}
