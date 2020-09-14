@@ -10,7 +10,7 @@ class Index extends Component  {
     this.state = {
        imgSrc: `${BASE_PATH}/images/me_icon_2.jpg`
     };
-    this.handleMouseOver = this.handleMouseOver.bind(sthis);
+    this.handleMouseOver = this.handleMouseOver.bind(this);
     this.handleMouseOut = this.handleMouseOut.bind(this);
   }
 
@@ -108,46 +108,48 @@ class Index extends Component  {
           </section>
         </section>
         
-        <section className="blurb">
-          <h2 ><span
-            className="txt-rotate"
-            data-period="2000"
-            data-rotate='[ "Xin chào", "Hello", "Bonjour","你好" , "こんにちは", "Hallo", "Hola","여보세요","Привет" ]'></span> 
-          </h2>
-          <p>I&apos;m Thanh, currently a student at the <a href="https://www.utt.fr/">University of Technology of Troyes</a>
-          , France.
-            <br/>Here's who I am and what I do.</p>
-          
-        </section>
-        <ul  align="center">
-          <li>
-            <Link to="/about" id="buttonindex" >
-              Learn More
-            </Link>
-          </li>
-        </ul>
-        <article className="post" id="index">
-          <header>
-            <div className="title">
-              <h2>About this site</h2>
-              <p>A simple, responsive, react app written with modern Javascript.</p>
-            </div>
-          </header>
-          <p> Welcome to my website ! </p>
-          <p>At here, you can read more <Link to="/about">about me</Link>,
-            check out my {' '}
-            <Link to="/resume">resume</Link>, {' '}
-            <Link to="/projects">projects</Link>, {' '}
-            view <Link to="/stats">site statistics</Link>, {' '}
-            or <Link to="/contact">contact</Link> me.
-          <br/>
-          After finishing some courses on writing web apps and React, I searched for something to build in order to apply what I have learned and sharpen my skills.
-            Then this website was born :)
-            <br/> Because this is my very first complete website, bugs are inevitable. If you find anything wrong about my website, please <a href="mailto:tranthanhtrivn@gmail.com">email</a> me.
-            <br/>Thank you !
-          </p>
-          <p> Source available <a href="https://github.com/tri135790/Personal-Website.git">here</a>.</p>
-        </article>
+          <section className="blurb">
+            <h2 ><span
+              className="txt-rotate"
+              data-period="2000"
+              data-rotate='[ "Xin chào", "Hello", "Bonjour","你好" , "こんにちは", "Hallo", "Hola","여보세요","Привет" ]'></span> 
+            </h2>
+            <p>I&apos;m Thanh, currently a student at the <a href="https://www.utt.fr/">University of Technology of Troyes</a>
+            , France.
+              <br/>Here's who I am and what I do.</p>
+            
+          </section>
+          <ul  align="center">
+            <li>
+              <Link to="/about" id="buttonindex" >
+                Learn More
+              </Link>
+            </li>
+          </ul>
+
+          <article className="post" id="index">
+            <header>
+              <div className="title">
+                <h2>About this site</h2>
+                <p>A simple, responsive, react app written with modern Javascript.</p>
+              </div>
+            </header>
+            <p> Welcome to my website ! </p>
+            <p>At here, you can read more <Link to="/about">about me</Link>,
+              check out my {' '}
+              <Link to="/resume">resume</Link>, {' '}
+              <Link to="/projects">projects</Link>, {' '}
+              view <Link to="/stats">site statistics</Link>, {' '}
+              or <Link to="/contact">contact</Link> me.
+            <br/>
+            After finishing some courses on writing web apps and React, I searched for something to build in order to apply what I have learned and sharpen my skills.
+              Then this website was born :)
+              <br/> Because this is my very first complete website, bugs are inevitable. If you find anything wrong about my website, please <a href="mailto:tranthanhtrivn@gmail.com">email</a> me.
+              <br/>Thank you !
+            </p>
+
+            <p> Source available <a href="https://github.com/tri135790/Personal-Website.git">here</a>.</p>
+          </article>
       </Main>
     );
   }
