@@ -5,23 +5,24 @@ import personalData from '../../data/stats';
 
 const PersonalStats = () => {
   const [data, setData] = useState(personalData);
-
-  const tick = () => {
+  const tickLove = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1990-02-05T09:24:00');
+    const loveTime = new Date('2018-09-22T00:00:00');
     setData({
       ...data,
-      age: {
-        label: 'Current age',
-        value: ((Date.now() - birthTime) / divisor).toFixed(11),
+      love: {
+        label: 'Time of have been with my lover',
+        value: ((Date.now() - loveTime) / divisor).toFixed(11),
       },
     });
   };
+  
 
   useEffect(() => {
-    const timer = setInterval(() => tick(), 25);
-    return () => { clearInterval(timer); };
+    const timerLove = setInterval(() => tickLove(), 25);
+    return () => { clearInterval(timerLove); };
   }, []);
+ 
 
   return (
     <>

@@ -1,43 +1,30 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'JEST',
+    subtitle: 'Board Game Application',
+    link: 'https://github.com/Yunagiri/Project-JEST',
+    image: '/images/projects/jest.png',
+    date: '2019-01-23',
+    desc: 'Turn a board game into a game application. '
+      + 'This game of cards was built primarily based on Java language and OOP.',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
-  }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'Wine Information Website',
+    subtitle: '',
+    link: '/project/',
+    image: '/images/projects/champagne.jpg',
+    date: '2019-06-28',
+    desc: 'A simple website built by Bootstrap/CSS/HTML,SQL, PHP and MVC model.'
+      + 'This website allows customers to look up data about different wines. ',
   },
+  {
+    title: 'LQĐ Soccer Club',
+    subtitle: 'A soccer club for Le Quy Don students',
+    link: '/project/',
+    image: '/images/projects/soccer.jpg',
+    date: '2017-05-28',
+    desc: 'A place where Le Quy Don students can play soccer, learn from each other and prepare for the contests. ',
+  }
 ];
 
 export default data;

@@ -5,7 +5,6 @@ import { Helmet } from 'react-helmet';
 import Analytics from '../components/Template/Analytics';
 import Header from '../components/Template/Header';
 import Footer from '../components/Template/Footer';
-import Nav from '../components/Template/Nav';
 import ScrollToTop from '../components/Template/ScrollToTop';
 
 const Main = (props) => (
@@ -18,7 +17,6 @@ const Main = (props) => (
       <div id="main">
         {props.children}
       </div>
-      {/* {props.fullPage ? null : <Nav />} */}
       
     </div>
     <Footer />

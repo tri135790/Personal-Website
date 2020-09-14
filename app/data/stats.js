@@ -1,16 +1,44 @@
 const data = {
   age: {
     label: 'Current age',
+    value: 20,
+  },
+  height: {
+    label: 'Height ',
+    value: '184 cm',
+  },
+  weight: {
+    label: 'Weight',
+    value: '67 cm'
+  },
+  love: {
+    label: 'Time of have been with my lover',
     value: 0,
   },
   countries: {
     label: 'Countries visited',
-    value: 53,
-    link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    value: 4,
   },
   location: {
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'Da Nang, Viet Nam',
+  },
+  book: {
+    label: 'Book on goodreads',
+    value: 25,
+    link: 'https://www.goodreads.com/user/show/100519598-ka-tun',
+  },
+  children: {
+    label: 'Children',
+    value: 0,
+  },
+  follower: {
+    label: 'Followers on Instagram',
+    value: 117,
+  },
+  boardgame: {
+    label: 'Board game owned',
+    value: 7,
   },
 };
 

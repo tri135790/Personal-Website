@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'University of Technology of Troyes, France',
+    degree: 'B.S. Informatics and Information Systems',
+    link: 'https://www.utt.fr/',
+    year: 2022,
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Le Quy Don High School for the Gifted, Da Nang, Viet Nam',
+    degree: 'High School Diploma',
+    link: 'http://www.thpt-lequydon-danang.edu.vn/',
+    year: 2017,
   },
 ];
 

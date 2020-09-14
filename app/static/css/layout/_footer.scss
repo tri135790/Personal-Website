@@ -11,7 +11,7 @@
 		@include vendor('justify-content', 'space-between');
 		background-color: _palette(bg);
 		border-bottom: solid 1px _palette(border);
-		height: 7.5em;
+		height: 5em;
 		left: 0;
 		line-height: 3.5em;
 		width: 100%;
@@ -20,7 +20,7 @@
 		margin:0px auto;
 		text-align: center;
 		display: inline-block;
-		padding-bottom: 16em;
+		padding-bottom: 22em;
 
 		.icons {
 			padding:0 0 0 0 ;

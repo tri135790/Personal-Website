@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 
 import Main from '../layouts/Main';
@@ -10,13 +9,14 @@ import data from '../data/projects';
 const Projects = () => (
   <Main>
     <Helmet title="Projects" />
+    <figure class="snip1104 blue">
+      <img src={`${BASE_PATH}/images/project.jpg`} alt="sample33" />
+      <figcaption>
+        <h2><span> Projects</span></h2>
+      </figcaption>
+      <a href="#"></a>
+    </figure>
     <article className="post" id="projects">
-      <header>
-        <div className="title">
-          <h2><Link to="/projects">Projects</Link></h2>
-          <p>A selection of projects that I&apos;m not too ashamed of</p>
-        </div>
-      </header>
       {data.map((project) => (
         <Cell
           data={project}

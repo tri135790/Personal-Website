@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 
 import Main from '../layouts/Main';
@@ -26,10 +25,17 @@ const sections = [
 const Resume = () => (
   <Main>
     <Helmet title="Resume" />
+    <figure class="snip1104 blue">
+      <img src={`${BASE_PATH}/images/resume.jpg`} alt="sample33" />
+      <figcaption>
+        <h2><span> Resume</span></h2>
+      </figcaption>
+      <a href="#"></a>
+    </figure>
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2><Link to="resume">Resume</Link></h2>
+          {/* <h2><Link to="resume">Resume</Link></h2> */}
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
