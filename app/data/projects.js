@@ -11,7 +11,7 @@ const data = [
   }, {
     title: 'Wine Information Website',
     subtitle: '',
-    link: '/project/',
+    link: 'https://github.com/tri135790/Wine-Information-Website',
     image: '/images/projects/champagne.jpg',
     date: '2019-06-28',
     desc: 'A simple website built by Bootstrap/CSS/HTML,SQL, PHP and MVC model.'
@@ -20,7 +20,7 @@ const data = [
   {
     title: 'LQĐ Soccer Club',
     subtitle: 'A soccer club for Le Quy Don students',
-    link: '/project/',
+    link: '/projects/',
     image: '/images/projects/soccer.jpg',
     date: '2017-05-28',
     desc: 'A place where Le Quy Don students can play soccer, learn from each other and prepare for the contests. ',

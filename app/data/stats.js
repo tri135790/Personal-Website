@@ -9,10 +9,10 @@ const data = {
   },
   weight: {
     label: 'Weight',
-    value: '67 cm'
+    value: '67 kg'
   },
   love: {
-    label: 'Time of have been with my lover',
+    label: 'Time I have been with my lover',
     value: 0,
   },
   countries: {
@@ -39,6 +39,18 @@ const data = {
   boardgame: {
     label: 'Board game owned',
     value: 7,
+  },
+  soccerTitles: {
+    label: 'Soccer Competition Titles',
+    value: 6,
+  },
+  atheleticTitles: {
+    label: 'Athletic Competition Titles',
+    value: 2,
+  },
+  studentPrizes: {
+    label: 'Excellent Student Contest Prizes',
+    value: 11,
   },
 };
 

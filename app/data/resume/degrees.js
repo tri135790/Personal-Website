@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'University of Technology of Troyes, France',
-    degree: 'B.S. Informatics and Information Systems',
+    degree: "Engineer's Degree: Informatics and Information Systems",
     link: 'https://www.utt.fr/',
     year: 2022,
   }, {

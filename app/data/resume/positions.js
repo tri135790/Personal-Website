@@ -5,7 +5,7 @@ const positions = [{
   daterange: 'January 2018 - Present',
   points: [
     'Manage a 6-person team to organize activities for Vietnamese students.',
-    'Support study, life issues for Vietnamese students as well as ensure their spiritual lifes.',
+    'Support study, life issues for Vietnamese students as well as ensure their spiritual lives.',
     'Promote the image of Viet Nam to international students. ',
     'Connect with other Vietnamese Student Associations in France.',
   ],

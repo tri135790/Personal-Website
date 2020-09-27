@@ -1,6 +1,6 @@
 {
   "name": "personal-site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://tranthanhtri.com",
   "scripts": {
     "build": "rimraf ./build && webpack --config ./webpack/webpack.production.config.babel.js --progress --profile --colors",

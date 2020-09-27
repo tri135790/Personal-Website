@@ -142,10 +142,8 @@ class Index extends Component  {
               view <Link to="/stats">site statistics</Link>, {' '}
               or <Link to="/contact">contact</Link> me.
             <br/>
-            After finishing some courses on writing web apps and React, I searched for something to build in order to apply what I have learned and sharpen my skills.
-              Then this website was born :)
-              <br/> Because this is my very first complete website, bugs are inevitable. If you find anything wrong about my website, please <a href="mailto:tranthanhtrivn@gmail.com">email</a> me.
-              <br/>Thank you !
+              <br/> If you find anything wrong about my website, please <a href="mailto:tranthanhtrivn@gmail.com">email</a> me.
+              Thank you !
             </p>
 
             <p> Source available <a href="https://github.com/tri135790/Personal-Website.git">here</a>.</p>

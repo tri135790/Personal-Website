@@ -11,7 +11,7 @@ const PersonalStats = () => {
     setData({
       ...data,
       love: {
-        label: 'Time of have been with my lover',
+        label: 'Time I have been with my lover',
         value: ((Date.now() - loveTime) / divisor).toFixed(11),
       },
     });
@@ -26,7 +26,6 @@ const PersonalStats = () => {
 
   return (
     <>
-      <h3>Some stats about me</h3>
       <Table data={Object.keys(data).map((key) => data[key])} />
     </>
   );
